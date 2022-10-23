@@ -1,8 +1,9 @@
 # Thoracometer
 
 ---------------------
-<img src="https://uno-website-assets.s3.amazonaws.com/wp-content/uploads/2022/09/28094927/Uno_HackFest22_Hero_V1-1024x395.jpg"
-We are here creating a tool to scan X-rays of thoracic cavity of our body.
+![Uno_HackFest22_Hero_V1-1024x395](https://user-images.githubusercontent.com/114771965/197408072-bd39a23f-2b94-45f3-ab8e-2e005ae65811.jpg)
+
+---------------------
 
 It will be helpful in detecting many diseases.
 
