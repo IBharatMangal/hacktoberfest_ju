@@ -9,6 +9,8 @@ It will be helpful in detecting many diseases.
 
 Test the project at : https://thoracometer.bharatmangal.repl.co
 
+Suggestions Invited !
+
 ------------- How To Use ------------------
 
 1.) Open the website
