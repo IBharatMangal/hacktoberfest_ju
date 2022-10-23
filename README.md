@@ -17,3 +17,5 @@ Test the project at : https://thoracometer.bharatmangal.repl.co
 5.) Your results are there (Disease Detected).
 
 -------------
+
+
